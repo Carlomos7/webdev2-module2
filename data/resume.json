@@ -1,28 +1,73 @@
 {
-    "name": "John Doe",
-    "tagline": "Experienced software engineer with a passion for coding.",
-    "email": "john.doe@example.com",
-    "phone": "123-456-7890",
-    "address": "123 Main St, Anytown, USA",
+    "name": "Carlos Segarra",
+    "tagline": "Web Developer",
+    "address": "114 Carlisle St., South Plainfield, NJ 07080",
+    "phone": "(973) 951-2465",
+    "email": "carlos.segarrajf@gmail.com",
     "socialLinks": {
-      "linkedin": "https://www.linkedin.com/in/johndoe",
-      "twitter": "https://twitter.com/johndoe",
-      "github": "https://github.com/johndoe"
+      "linkedin": "carlos-ray-segarra",
+      "twitter": "",
+      "github": "Carlomos7"
     },
-    "objective": "To contribute to the success of a forward-thinking company with my skills and experience as a software engineer.",
+    "objective": "To obtain a position as a web developer where I can utilize my skills and experience to create engaging and user-friendly websites.",
     "education": [
       {
-        "degree": "B.S. in Computer Science",
-        "institution": "University of Example",
-        "years": "2010-2014"
+        "institution": "New Jersey Institute of Technology",
+        "location": "Newark, NJ",
+        "degree": "BS, Information Technology",
+        "years": "Expected Graduation December 2023"
       }
     ],
+    "skills": {
+      "technicalProficiencies": "Python, Java, JavaScript, PHP | Sanity, SQL, Oracle Cloud Platform | HTML, CSS, Next.js, React, Tailwind CSS",
+      "collaboration": "Effective team collaboration, Strong communication skills",
+      "methodologies": "Agile, A/B Testing, Test-driven development, Continuous integration"
+    },
     "experience": [
       {
-        "jobTitle": "Senior Software Engineer",
-        "company": "Example Company",
-        "years": "2014-Present"
+        "company": "WHOLE FOODS",
+        "location": "Metuchen, NJ",
+        "jobTitle": "Grocery Team Member",
+        "years": "Aug 2020 - Sept 2022",
+        "responsibilities": [
+          "Maintained a high standard of customer service, promptly addressing inquiries and assisting with product selection to facilitate a positive shopping experience.",
+          "Developed in-depth knowledge of store inventory to provide accurate information and recommendations to customers.",
+          "Handled point-of-sale operations with responsibility for efficient and accurate transaction processing."
+        ]
+      },
+      {
+        "company": "NEW JERSEY INNOVATION INSTITUTE",
+        "location": "Newark, NJ",
+        "jobTitle": "Promoting Interoperability Team Project Assistant",
+        "years": "July 2018 - Aug 2020",
+        "responsibilities": [
+          "Managed client interaction data via Salesforce CRM, enhancing data accuracy and reliability.",
+          "Automated Salesforce-based processes, reducing task completion time and bolstering team productivity.",
+          "Mentored and onboarded incoming project assistants, promoting swift team integration and role proficiency."
+        ]
       }
     ],
-    "skills": ["Python", "JavaScript", "C++", "HTML", "CSS", "SQL", "Git"]
-}
+    "projects": [
+      {
+        "title": "Statically & AI-Generated Blog Post Website",
+        "role": "UI/UX Designer & Front-end Developer",
+        "description": "Built a student-oriented website using Next.js and Sanity, featuring AI-aided content and responsive design elements.",
+        "achievements": [
+          "Utilized AI for creating engaging content and implemented a GDPR-compliant privacy modal using Tailwind CSS and Radix UI.",
+          "Applied A/B testing for enhancing user engagement and worked effectively within a development team using agile methodologies."
+        ]
+      },
+      {
+        "title": "AudioNook - Music Trading Platform Development",
+        "role": "Project Manager & Full Stack Developer",
+        "description": "Led the development and project management of AudioNook, an online platform for digitally collecting and trading physical music formats.",
+        "achievements": [
+          "Implemented Discogs API integration for seamless access to a vast music database.",
+          "Developed features for digital collection management and facilitated trading of physical music formats.",
+          "Demonstrated strong leadership and organizational skills in overseeing the project from conception to delivery.",
+          "Utilized web development skills to create a user-friendly interface and ensure a smooth user experience."
+        ]
+      }
+    ]
+  }
+  
